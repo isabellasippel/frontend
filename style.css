@@ -25,10 +25,11 @@
     width: 288px;
     height: 200px;
 }
-#montanhas{
+#montanha{
     width: 287px;
      height: 272px;
-     commit
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYoD9Yct0PFwub6iE4CbBh6-Y2TCQiT9CEe1h1lDuCI08UyFUGxWlDnE&s=10");
+    background-size: 300px 300px; 
 }
 
 }
