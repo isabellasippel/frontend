@@ -27,7 +27,7 @@
     height: 200px;
 }
 #montanha{
-    width: 287px;
+    width: 323px;
      height: 272px;
      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYoD9Yct0PFwub6iE4CbBh6-Y2TCQiT9CEe1h1lDuCI08UyFUGxWlDnE&s=10");
     background-size: 100% 300px; 
@@ -56,10 +56,16 @@ border:1px;
   border-radius: 20px;
   border:1px;
 }
-#seta{
-   width: 18px;
-    height: 57px;
-   margin-top: 36%;
+#2montanha{
+  background-image: url("https://static.vecteezy.com/ti/vetor-gratis/t1/47439941-uma-azul-montanha-panorama-com-uma-sol-aumentar-sobre-isto-vetor.jpg");
+width: 200px;
+height: 200px;
+border: solid 2px red;
+
+}
+#imagem2{
+  width: 200px;
+height: 200px;
 }
 
 
