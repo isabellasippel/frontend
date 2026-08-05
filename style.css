@@ -1,4 +1,4 @@
-@media (max-width: 400px) {
+@media (max-width: 340px) {
   body {
     background-color: rgb(45, 153, 189);
   }
@@ -19,6 +19,7 @@
         margin-top: 0px;
         position: absolute;
         left: 138px;
+        background-color: rgb(191, 248, 255);
 }
 #ciano{
     background-color: aqua;
@@ -29,9 +30,19 @@
     width: 287px;
      height: 272px;
      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYoD9Yct0PFwub6iE4CbBh6-Y2TCQiT9CEe1h1lDuCI08UyFUGxWlDnE&s=10");
-    background-size: 300px 300px; 
+    background-size: 100% 300px; 
 }
 
+#letraMontanha  {
+
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-weight: bold;
+text-align: center;
+}
+H2{
+  font-size: 18px;
+}
 }
 
 
