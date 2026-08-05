@@ -43,11 +43,32 @@ text-align: center;
 H2{
   font-size: 18px;
 }
+#botão{
+  text-align: center;
+}
+.botao-verde{
+  background-color: rgb(9, 162, 182);
+  border-radius: 20px;
+border:1px;
+}
+.botao-vermelho{
+  background-color: #a5def0;
+  border-radius: 20px;
+  border:1px;
+}
+#seta{
+   width: 18px;
+    height: 57px;
+   margin-top: 36%;
 }
 
 
 
 
+
+
+
+}
 
 
 
