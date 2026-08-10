@@ -46,7 +46,7 @@ H2{
 #botão{
   text-align: center;
 }
-.botao-verde{
+.botao-verde{https://static.vecteezy.com/system/resources/previews/047/439/941/non_2x/a-blue-mountain-landscape-with-a-sun-rising-over-it-vector.jpg
   background-color: rgb(9, 162, 182);
   border-radius: 20px;
 border:1px;
@@ -56,6 +56,31 @@ border:1px;
   border-radius: 20px;
   border:1px;
 }
+#grande{
+ width: 267px;
+height: 237px;
+padding-top: 116px;
+ margin-left: 25px;
+}
+H3{
+  font-size: 28px;
+}
+
+h3{
+  margin-left: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 
