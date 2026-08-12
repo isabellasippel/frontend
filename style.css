@@ -60,7 +60,7 @@ border:1px;
  width: 267px;
 height: 237px;
 padding-top: 116px;
- margin-left: 18px;
+ margin-left: 2px;
 }
 h3{
   margin-left: 28px;
@@ -171,10 +171,22 @@ margin-top: 144px;
 margin-left: 21px;
 }
 #texto1{
-margin-left: 298px;
-margin-top: -31px;
-font-size: 23px;
+margin-left: 290px;
+margin-top: -540px;
+font-size: 19px;
 color: rgb(10, 10, 10);
+width: 250px;
+height: 52px;
+}
+.botao-azul{
+        margin-left: 297px;
+        margin-top: 109px;
+        border-radius: 10px;
+        border: 0px;
+        background-color: #00a7a7;
+        height: 32px;
+        width: 56px;
+        font-size: 18px;
 }
 
 
